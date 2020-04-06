@@ -7,5 +7,6 @@ Project on the t-distributed stochastic neighbor embedding (t-SNE) algorithm for
 - Convergence analysis of the t-SNE algorithm
 - Multiple maps t-SNE
 - Parametric (kernel) t-SNE
+- Applications
 
 Our paper can be downloaded [here](https://github.com/SergioArnaud/Nonlinear-dimensionality-reduction/blob/master/reports/proyecto_t-sne.pdf)
